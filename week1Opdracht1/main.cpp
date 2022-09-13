@@ -15,7 +15,7 @@ int main(void) {
 
 	printf("Voer een heel getal in..");
 	scanf_s("%d", &b);
-
+	
 	c = a * b;
 
 	if (b > 9) {
@@ -29,4 +29,6 @@ int main(void) {
 
 	return 0;
 }
+
+
 
