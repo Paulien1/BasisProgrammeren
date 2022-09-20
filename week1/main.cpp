@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-
+/*
 int main(void) {
 
 	int value;
@@ -20,5 +20,5 @@ int main(void) {
 	
 	
 
-}
+}*/
 
